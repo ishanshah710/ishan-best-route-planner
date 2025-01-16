@@ -7,7 +7,7 @@ This project helps a delivery executive determine the best route to deliver orde
 ## File Structure
 
 - `main.py`: Main execution flow with sample input.
-- `models.py`: Contains the core classes for geo-locations, orders, and route planning.
+- `models/`: Contains the core classes for geo-locations, orders, and route planning.
 - `utils.py`: Utility functions like calculating haversine distance.
 - `exceptions.py`: Custom Exceptions.
 - `constants.py`: contains all constants used or assumed.
