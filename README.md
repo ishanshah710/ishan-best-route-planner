@@ -16,7 +16,9 @@ This project helps a delivery executive determine the best route to deliver orde
 ## How to Run
 
 1. Run Main File
-   ```python3 main.py
+   ```sh
+   python3 main.py
 
 2. Run unit tests
-   ```python3 -m unittest discover -s tests
+   ```sh
+   python3 -m unittest discover -s tests
